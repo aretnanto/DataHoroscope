@@ -1,0 +1,5 @@
+# DataHoroscope
+
+## Artistic Concept
+The overarching artistic theme of this app aims to comment on is the relationship between physical senses (touch, smell, taste, sight and hearing) and emotive states. There is parallelism between the sensory information collected from mobile devices and
+the human body. The app ideally should be able to discern when you are feeling ‘down’, ‘anxious’ or any emotional state and act as a mechanism to provide suggestions to cope with such states. The reaction I seek to recreate is inspired from the movie Ratatouille where the food critic Ego eats a titular dish that reminds him of what his mother used to make as a child. The app aims to intrude through ‘private’ spaces such as memories – where sensory data capture the present and digital information ‘recreates’ the past. Emotive spaces such as ‘nostalgia’ and ‘trauma’ are unique intimate spaces that we protect. Designing an app that can tap into that space through a combination of sensory surveillance and behavioral information provokes the user’s sense of autonomy as one could potentially control through the use of such applications.
