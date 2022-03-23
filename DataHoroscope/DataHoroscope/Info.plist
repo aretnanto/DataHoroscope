@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>This is to update helath info</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This is for location info</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>This is to update helath info</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>This is for location info</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This is for location info</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>location</string>
+	</array>
+</dict>
+</plist>
